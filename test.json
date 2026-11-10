@@ -1,0 +1,36 @@
+{
+  "id": "msg_20261111025614cffd15db43344f22",
+  "container": null,
+  "content": [
+    {
+      "signature": "f4dacdb93e1741398d00145d",
+      "thinking": "The user is asking for a definition of quantum computing in one sentence. They explicitly requested brevity - \"Answer in one sentence.\"\n\nSo I need to craft a single, well-constructed sentence that captures the essence of quantum computing. Let me think about what quantum computing is:\n\nQuantum computing is a type of computation that harnesses quantum mechanical phenomena—like superposition (qubits can be in multiple states simultaneously), entanglement (qubits can be correlated in ways classical bits cannot), and interference—to process information in ways fundamentally different from classical computing, potentially solving certain problems much faster.\n\nKey elements to include:\n1. It's a computing paradigm using quantum mechanics\n2. Uses qubits instead of classical bits\n3. Exploits superposition and entanglement\n4. Can solve certain problems faster than classical computers\n\nLet me draft a single sentence:\n\n\"Quantum computing is a type of computation that uses quantum-mechanical phenomena—such as superposition and entanglement of qubits (quantum bits that can exist in multiple states simultaneously)—to perform certain calculations exponentially faster than classical computers.\"\n\nThat's one sentence with em dashes and parenthetical. It's comprehensive but a bit long. Let me consider a cleaner version:\n\n\"Quantum computing is a form of computation that harnesses quantum-mechanical phenomena like superposition and entanglement to process information using qubits, potentially solving certain problems far faster than classical computers.\"\n\nThat's good—one sentence, captures the key concepts.\n\nFormat: The user asked for one sentence, so I should deliver exactly one sentence. No headers, no bullet points, no extra fluff. Just the sentence. Maybe I could bold key terms but honestly, for a one-sentence answer, plain text is cleanest.\n\nFinal answer: one clear sentence.",
+      "type": "thinking"
+    },
+    {
+      "citations": null,
+      "text": "Quantum computing is a form of computation that harnesses quantum-mechanical phenomena—such as superposition and entanglement—to process information using qubits, which can exist in multiple states simultaneously, potentially solving certain problems far faster than classical computers.",
+      "type": "text"
+    }
+  ],
+  "model": "claude-haiku-4-5",
+  "role": "assistant",
+  "stop_details": null,
+  "stop_reason": "end_turn",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": null,
+    "cache_creation_input_tokens": null,
+    "cache_read_input_tokens": 0,
+    "inference_geo": null,
+    "input_tokens": 21,
+    "output_tokens": 418,
+    "output_tokens_details": null,
+    "server_tool_use": {
+      "web_fetch_requests": null,
+      "web_search_requests": 0
+    },
+    "service_tier": "standard"
+  }
+}
